@@ -3,9 +3,10 @@
 ## Cara Instalasi :
 1. Fork repository ini ke dalam personal github kalian masing-masing
 2. Clone repository hasil fork tersebut ke dalam local / komputer kalian
-3. Check remote url kalian, make sure bahwa destination url nya ke username github kalian dengan cara  ```git remote -v```
-4. ```npm install```
-5. Kerjakan tugas sesuai dengan instruksi yang ada.
+3. Pindah ke folder hasil clone di local kalian.
+4. Check remote url kalian, make sure bahwa destination url nya ke username github kalian dengan cara  ```git remote -v```
+5. ```npm install```
+6. Kerjakan tugas sesuai dengan instruksi yang ada.
 
 ## Cara pengumpulan : 
 1. Buat pull request dari repository yang ada di dalam github kalian. 
@@ -17,7 +18,7 @@
 3. Lalu create.
 4. (optional) Kalian bisa request `reviewer` ke `RizkyMaulita` untuk bisa langsung mendapat notif untuk mereview tugas kalian.
 
-Kalian juga dapat melihat cara pull request di [link ini](https://www.google.com)
+Kalian juga dapat melihat cara pull request di [link ini](https://youtu.be/hgpqCnBSUII)
 #
 
 ## Instruksi Soal
