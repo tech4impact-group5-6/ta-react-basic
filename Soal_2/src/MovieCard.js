@@ -1,18 +1,13 @@
 import { Component } from "react";
 
 class MovieCard extends Component {
-    movie = {};
-
     constructor(props) {
         super(props);
-        this.movie = props.movie;
-        this.connection = props.lain;
     }
 
     render() {
       return (
         <div className="col-12 col-lg-3 col-md-4 col-sm-6 my-3">
-            {this.connection}
             <div className="card h-100">
                 <img
                     src={this.props?.movie?.image_url}
