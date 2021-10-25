@@ -27,7 +27,7 @@ class MovieCard extends Component {
                 </div>
                 <div className="card-body">
                     <a href={this.movie.url} target="_blank" className="btn btn-primary w-100 text-uppercase">
-                      readmore
+                        readmore
                     </a>
                 </div>
             </div>
